@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shweta Yadav</h1>
 <h3 align="center">Enthusiastic Automation Engineer with a passion for streamlining processes, optimizing efficiency, and driving quality. Dedicated to leveraging automation tools and techniques to improve productivity, reduce errors, and enhance software delivery.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shweta2567&label=Profile%20views&color=0e75b6&style=flat" alt="shweta2567" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shweta2567" alt="shweta2567" /></a> </p>
 
 - 🌱 I’m currently learning **Jenkins ,CI/CD**
 
