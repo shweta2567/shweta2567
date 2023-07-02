@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Automation Projects**
 
-- 💬 Ask me about **selenium , cucumber ,BDD, BehaveX**
+- 💬 Ask me about **Selenium , Cucumber ,BDD, BehaveX, TestNG**
 
 - 📫 How to reach me **shwetayadav2567@gmail.com**
 
